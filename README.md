@@ -39,7 +39,7 @@ python task4_complex_app.py
 Ниже приведены примеры работы приложения.
 
 ### Вкладка «Контроль»
-![alt text](screenshots/image3.png)
+(screenshots/image3.png)
 
 ### Вкладка «Результат»
-![alt text](screenshots/image4.png)
+(screenshots/image4.png)
